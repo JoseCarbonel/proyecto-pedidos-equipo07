@@ -2,8 +2,8 @@
 Avance de Proyecto Final 1
 
 ## Funcionalidades
+- Módulo Productos: registrar,listar productos y actualizar producto
 - Módulo Clientes: registrar y listar clientes
-- Módulo Productos: registrar y listar productos
 - Módulo Pedidos: registrar y consultar pedidos
 
 ## Cómo ejecutar el proyecto
