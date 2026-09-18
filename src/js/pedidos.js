@@ -1,0 +1,1 @@
+//Funcionalidad para validar que haya cliente y producto seleccionados
