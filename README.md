@@ -2,7 +2,7 @@
 Avance de Proyecto Final 1
 
 ## Funcionalidades
-- Módulo Clientes: registrar y listar clientes
+- Módulo Clientes: registrar y listar clientes. Tambien permite actualizar y eliminar clientes.
 - Módulo Productos: registrar y listar productos
 - Módulo Pedidos: registrar y consultar pedidos
 
